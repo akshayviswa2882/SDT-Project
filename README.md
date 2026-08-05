@@ -4,7 +4,7 @@ TTGRPOsemBAD= We reward the change in state of label based on the effect of the 
 TTGRPOGOOD = We create a hybrid method where LLM as judge gives out the predicted talk_type label of client based on the context history at that moment.Gives out Label and confidence , where confidence measure how sure it is with its prediction. Confidence added just to get advantage during GRPO since other method had 0 advantages as measured.
 
 
-# LLM generated overview of the methods we did based on how I explained the information to it:
+# LLM generated overview of the methods to summarize what we did based on how I explained the information to it:
 
 # GRPO R2 (Talk Type Reward) - Three Implementation Methods
 
