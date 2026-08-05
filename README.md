@@ -169,6 +169,7 @@ REWARD_TABLE = {
 
 
 ---
-
+### More Changes?
+Maybe we can add a rubric in the prompt for the LLM as judge to calculate the confidence based on the checklist we provide. The current method just predicts the confidence it has over its predicted label.
 
 
