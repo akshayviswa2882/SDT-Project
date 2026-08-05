@@ -166,7 +166,7 @@ REWARD_TABLE = {
 | Interpretability | Good | Good | Good ✓ |
 | Reward Mean | 0.827 | 0.667 | 0.342 (realistic) |
 | Change Talk Gain | -51% | -52% | +4% |
-| **Recommended** | ✗ | ✗ | **✓** |
+
 
 ---
 
