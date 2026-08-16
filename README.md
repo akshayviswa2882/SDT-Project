@@ -454,7 +454,7 @@ Combined:
 
 ---
 
-## Lessons Learned
+## Insights
 
 1. **High baseline performance obscures reward utility**
    - R1 weak signal doesn't mean R1 is bad
@@ -494,13 +494,6 @@ Combined:
 4. **Combine with R2** — implement full multi-reward system
 5. **Add R3 + R4** — SDT process and therapeutic alliance rewards
 
----
-
-## Summary
-
-**R1 Implementation:** ✓ Successful (clean, working code)
-**R1 Performance Alone:** ✗ Weak signal due to strong SFT baseline
-**R1 Clinical Value:** ✓ Essential for grounded, contextual responses
 **R1 Multi-Reward Role:** ✓ Critical stabilizer alongside R2
 
 **Verdict:** Include R1 at λ=0.20 weight in final multi-reward system.
