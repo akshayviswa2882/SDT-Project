@@ -494,9 +494,5 @@ Combined:
 4. **Combine with R2** — implement full multi-reward system
 5. **Add R3 + R4** — SDT process and therapeutic alliance rewards
 
-**R1 Multi-Reward Role:** ✓ Critical stabilizer alongside R2
 
-**Verdict:** Include R1 at λ=0.20 weight in final multi-reward system.
-
-```
 
